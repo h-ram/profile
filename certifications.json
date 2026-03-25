@@ -1,0 +1,26 @@
+[
+  {
+    "name": "FCC Python",
+    "issuer": "freeCodeCamp",
+    "date": "2026-01-03",
+    "link": "https://www.freecodecamp.org/certification/ram-h/python-v9"
+  },
+  {
+    "name": "FCC Responsive Web Design",
+    "issuer": "freeCodeCamp",
+    "date": "2026-02-22",
+    "link": "https://www.freecodecamp.org/certification/ram-h/responsive-web-design-v9"
+  },
+  {
+    "name": "FCC JavaScript",
+    "issuer": "freeCodeCamp",
+    "date": "2026-03-05",
+    "link": "https://www.freecodecamp.org/certification/ram-h/javascript-v9"
+  },
+  {
+    "name": "FCC Relational Databases",
+    "issuer": "freeCodeCamp",
+    "date": "2026-01-12",
+    "link": "https://www.freecodecamp.org/certification/ram-h/python-v9"
+  } 
+]
